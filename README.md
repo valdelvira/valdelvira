@@ -59,9 +59,4 @@
   </a> 
 </p>
 
----
 
-### :fire: My Stats :
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nbow1&layout=compact&bg_color=0,232526,414345&icon_color=ffffff&title_color=ffffff&text_color=ffffff&line_height=30&v=5" alt="Ra1nbow's Stats" />
-</div>
