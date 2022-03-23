@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="100"/>
   
 ## Hi! I'm Diego 👋
-�</div>
+</div>
 ### 🚀 About Me
   I'm a passionate full stack developer since 2017 from Madrid.
 - :mailbox: How to reach me [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdelvira)
@@ -58,17 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
-<!--
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- ⚡ Fun fact: ...
--->
 ---
 
 ### :fire: My Stats :
