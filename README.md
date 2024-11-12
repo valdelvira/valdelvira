@@ -9,7 +9,7 @@
   I'm a passionate full stack developer since 2017 from Madrid.
 - :mailbox: How to reach me [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdelvira)
 - 🔭 I’m currently working on MERN projects 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Rust**
 - ⚡ Fun fact Dancing salsa made me a better programmer
 
 ---
